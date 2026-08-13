@@ -45,6 +45,12 @@ Complaint-Suggestion-Management-System/
 ├── images/
 └── database/
 ```
+To login as admin use 
+username:
+admin@campus.edu
+password:
+admin123
+
 
 ## 🚀 Running the Project Locally
 
